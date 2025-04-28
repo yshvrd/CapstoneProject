@@ -1,0 +1,9 @@
+torch 
+torchaudio
+torchvision
+transformers 
+accelerate
+sentencepiece
+llama-cpp-python
+peft 
+datasets
